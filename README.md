@@ -3,8 +3,6 @@
 
 ![](http://upload-images.jianshu.io/upload_images/1396375-7c33aa1b9badef51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-效果图
-![](http://upload-images.jianshu.io/upload_images/1396375-49c322fce3c717f8.gif?imageMogr2/auto-orient/strip)
 
 
 
